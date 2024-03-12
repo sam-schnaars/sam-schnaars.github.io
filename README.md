@@ -1,3 +1,3 @@
-### SAMS SITE
+# SAMS SITE
 
 # sam-schnaars.github.io
